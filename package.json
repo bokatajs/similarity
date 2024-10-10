@@ -1,6 +1,6 @@
 {
   "name": "@bokata/similarity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Similarity",
   "author": {
     "email": "jseijas@gmail.com",
@@ -20,7 +20,7 @@
     }
   ],
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "lint": "eslint .",
     "lintfix": "eslint --fix .",
